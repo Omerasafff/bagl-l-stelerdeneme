@@ -1,0 +1,5 @@
+﻿  YIĞINLAR DENEME.cpp
+C:\Users\Ömer Asaf\source\repos\YIĞINLAR DENEME\YIĞINLAR DENEME.cpp(15,3): error C2065: 'kapasite': bildirimi yapılmamış tanımlayıcı
+C:\Users\Ömer Asaf\source\repos\YIĞINLAR DENEME\YIĞINLAR DENEME.cpp(16,21): error C2065: 'kapasite': bildirimi yapılmamış tanımlayıcı
+C:\Users\Ömer Asaf\source\repos\YIĞINLAR DENEME\YIĞINLAR DENEME.cpp(16,11): error C3863: 'int [10]' dizi türü atanabilir değil
+C:\Users\Ömer Asaf\source\repos\YIĞINLAR DENEME\YIĞINLAR DENEME.cpp(17,3): error C3861: 'genıslet': tanımlayıcı bulunamadı
